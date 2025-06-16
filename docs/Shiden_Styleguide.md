@@ -1,4 +1,4 @@
-# Shiden スタイルガイド（Shiden_StyleGuide.md）
+# Shiden スタイルガイド（Shiden_Styleguide.md）
 
 ## 🎨 カラースキーム
 
