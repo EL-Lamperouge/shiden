@@ -1,11 +1,17 @@
 ---
 description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 # Shiden general development rules
 
-## プロジェクト目的
+## プロジェクト情報
+
+## リポジトリ情報
+- owner: EL-Lamperouge
+- repo: shiden
+
+### 概要
 
 Shidenは、紫色の稲妻をコンセプトとした、オフライン対応・ローカル完結型の個人向けタスク管理ダッシュボードです。利用者のモチベーションを高めるため、視覚的に優れたUIとゲーミフィケーション（KPIバッジ等）を組み合わせています。
 
@@ -61,3 +67,4 @@ Shidenは、紫色の稲妻をコンセプトとした、オフライン対応�
 
 - 各バッジ／画面／コンポーネント単位の実装ガイドライン
 - PRルール（自動テスト・レビュー観点）
+
